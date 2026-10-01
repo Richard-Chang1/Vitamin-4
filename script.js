@@ -22,7 +22,7 @@ const question1 = () => {
       
     } else {
       sidebar.classList.add("opened");
-      sidebarButton.textContent = "<";
+      sidebarButton.textContent = "‹";
     }
   });
 };
